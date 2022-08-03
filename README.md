@@ -28,8 +28,6 @@
 
 
 ---
-<img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638336-8526334f-01a2-44d9-96bc-2adfca207ec4.png">
-<img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638371-a79c2b2c-c461-4c67-9433-5b033b97a312.png">
-<img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638392-a545ee5a-2488-4146-815b-7e519590f135.png">
+<img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638336-8526334f-01a2-44d9-96bc-2adfca207ec4.png">  <img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638371-a79c2b2c-c461-4c67-9433-5b033b97a312.png">  <img width="126" alt="Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 26 58" src="https://user-images.githubusercontent.com/100344157/182638392-a545ee5a-2488-4146-815b-7e519590f135.png">
 
 
