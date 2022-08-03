@@ -24,11 +24,10 @@
 
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 30 02](https://user-images.githubusercontent.com/100344157/180214774-aa8d016a-4764-49ff-b41a-9d6b276e5cb6.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 37 30](https://user-images.githubusercontent.com/100344157/180215119-bace3f51-160d-43d6-b17c-0285596325d3.png)  ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 27 09](https://user-images.githubusercontent.com/100344157/182639418-315c9c55-f293-485b-ad27-f55438b67f12.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-21 at 16 37 30](https://user-images.githubusercontent.com/100344157/180215119-bace3f51-160d-43d6-b17c-0285596325d3.png)  
 
 
 
----
 
 
 
